@@ -14,14 +14,12 @@ Actualize Bootcamp grad in full-stack web development.
 
 
 ##  
+- I’m currently honing skills in JavaScript, Python, Ruby on Rails, & React.js
 
+
+  
 - Currently working on a PwrBldr and app to create custom exercise programs
   
-
-- I’m currently honing skills in JavaScript, Python, Ruby on Rails, & React.js  
-  
-
- 
   
 
 <br/>  
